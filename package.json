@@ -1,0 +1,1 @@
+{\n  "name": "file-upload-system",\n  "version": "1.0.0",\n  "description": "A professional file upload system using Node.js and Express.",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "multer": "^1.4.2",\n    "mongoose": "^5.10.7"\n  }\n}
